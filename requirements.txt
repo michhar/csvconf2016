@@ -1,1 +1,2 @@
 plotly==1.9.10
+pycountry==1.20
